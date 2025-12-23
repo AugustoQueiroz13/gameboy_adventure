@@ -14,5 +14,4 @@ Um jogo de plataforma feito em Python com Pygame Zero.
 2. Rode o jogo:
    pgzrun main.py
    
-Repositório de um jogo feito como avalição para professor da Kodland Brasil
-Feito por Augusto QUeiroz
+Repositório de um jogo feito como avalição para professor da Kodland Brasil - Feito por Augusto QUeiroz
